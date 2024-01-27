@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <footer className='w-100 bg-light text-center'>
         <p>
-          © 2022 Jalaram Traders, All Rights Reserved | Terms and Conditions
+          © 2022 Jalaram Infotech, All Rights Reserved | Terms and Conditions
         </p>
       </footer>
     </>
