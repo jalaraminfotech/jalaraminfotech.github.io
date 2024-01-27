@@ -138,7 +138,7 @@ function Contact() {
                       <div className='text pl-3'>
                         <p>
                           <span>Address: </span> 10 - Mavdi Plot, Near Ambica
-                          Weigh Bridge, Rajkot-360004
+                          Weigh Bridge, Rajkot-360003
                         </p>
                       </div>
                     </div>
@@ -149,7 +149,7 @@ function Contact() {
                       <div className='text pl-3'>
                         <p>
                           <span>Phone: </span>
-                          <a href='tel://+918347741001'>+91 83477 41001</a>
+                          <a href='tel://+919099929629'>+91 90999 29629</a>
                         </p>
                       </div>
                     </div>
@@ -160,8 +160,8 @@ function Contact() {
                       <div className='text pl-3'>
                         <p>
                           <span>Email: </span>
-                          <a href='mailto:niravcool1001@gmail.com'>
-                            niravcool1001@gmail.com
+                          <a href='mailto:jalaraminfotechteam@gmail.com'>
+                            jalaraminfotechteam@gmail.com
                           </a>
                         </p>
                       </div>
@@ -173,7 +173,7 @@ function Contact() {
                       <div className='text pl-3'>
                         <p>
                           <span>Website: </span>
-                          <a href='#'>https://jalaramtraders.github.io</a>
+                          <a href='#'>https://jalaraminfotech.github.io</a>
                         </p>
                       </div>
                     </div>

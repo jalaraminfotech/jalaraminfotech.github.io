@@ -16,7 +16,9 @@ const Commom = (props) => {
                     <strong className='brand-name'> Jalaram Infotech </strong>
                   </h1>
                   <h2 className='my-3'>
-                    We deal in Ferrous & Non Ferrous Metals
+                    We deal in turning digital dreams into reality, crafting
+                    bespoke web solutions for businesses to thrive in the online
+                    realm with innovation and expertise.
                   </h2>
                   <div className='mt-3'>
                     <NavLink to={props.visit} className='btn-get-started '>
